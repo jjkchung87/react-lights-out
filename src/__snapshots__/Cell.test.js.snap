@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Board /> rendering inital board and win state matches snapshot for full board 1`] = `
+<DocumentFragment>
+  <table
+    class="Board"
+  >
+    <tbody>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`should match snapshot 1`] = `<DocumentFragment />`;
